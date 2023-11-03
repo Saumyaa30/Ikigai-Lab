@@ -1,0 +1,11 @@
+.navbar {
+  border-bottom: #784778 solid 5px;
+}
+
+#services .card:hover {
+  background: #0b7fad;
+  color: #0b7fad;
+}
+body {
+  background: linear-gradient(to right bottom, #e1f4ef, #aad0cd, #76dcd5);
+}
